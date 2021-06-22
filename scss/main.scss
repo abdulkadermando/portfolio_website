@@ -82,7 +82,7 @@ img {
     // header content
     .header-content {
       text-align: center;
-      padding-top: 10%;
+      padding-top: 15%;
 
       h1 {
         font-size: 4rem;
@@ -381,6 +381,7 @@ img {
     width: 20px;
     line-height: 20px;
     text-align: center;
+    color: #fff;
 
     &:hover {
       background-color: $main-color;

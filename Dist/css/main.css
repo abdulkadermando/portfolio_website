@@ -304,7 +304,7 @@ img {
 
 #header-home .header-content {
   text-align: center;
-  padding-top: 10%;
+  padding-top: 15%;
 }
 
 #header-home .header-content h1 {
@@ -624,6 +624,7 @@ img {
   width: 20px;
   line-height: 20px;
   text-align: center;
+  color: #fff;
 }
 
 #main-footer .socials .fab:hover {
